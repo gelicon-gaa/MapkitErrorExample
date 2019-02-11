@@ -1,0 +1,144 @@
+<resources>
+    <string name="app_name">Таблеточка</string>
+    <string name="company_phone_number">8&#8211;800&#8211;2005&#8211;400</string>
+
+    <!--Сообщения-->
+    <string name="search_no_result_message">Поиск не дал результатов</string>
+    <string name="no_internet_error_message">Отсутствует интернет соединение\n Убедитесь что на устройстве включен интернет</string>
+    <string name="other_error_message">Произошла ошибка\n Повторите попытку позже</string>
+
+    <!--Элементы нижней навигации-->
+    <string name="title_home">Таблеточка</string>
+    <string name="title_catalog">Каталог</string>
+    <string name="title_orders">Заказы</string>
+    <string name="title_promo">Акции</string>
+    <string name="title_profile">Профиль</string>
+
+    <!--Элементы меню-->
+    <string name="title_search">Поиск</string>
+    <string name="title_favorite">Избранное</string>
+    <string name="title_shopping_basket">Корзина</string>
+
+    <!-- Экран выбора диалога -->
+    <string name="region_title">Выбор региона</string>
+
+    <!--Домашний экран-->
+    <string name="goods_of_the_day_text">Товар дня</string>
+    <string name="discounts_text">Скидки</string>
+    <string name="special_offers_text">Спецпредложения</string>
+    <string name="affiliate_text">Пригласи друга</string>
+    <string name="all_text">ВСЕ</string>
+
+    <!-- Сообщить об ошибке -->
+    <string name="error_report_title">Сообщить об ошибке</string>
+    <string name="error_report">Сообщите об ошибке</string>
+    <string name="report">Сообщить</string>
+
+    <!-- Обратная связь -->
+    <string name="feedback_title">Обратная связь</string>
+    <string name="comment">Оставьте отзыв</string>
+    <string name="called_back">Я хочу, чтобы мне перезвонили</string>
+    <string name="send_comment">Оставить отзыв</string>
+    <string name="your_phone">Ваш номер телефона</string>
+
+    <!-- EAN13 -->
+    <string name="barcode_view_title">Поиск по штрих-коду</string>
+    <string name="barcode_message">Держите штрих-код внутри рамки.\nОн будет считан автоматически</string>
+
+    <!-- Профиль -->
+    <string name="about_app">О программе</string>
+    <string name="logout_app">Выход</string>
+    <string name="profile_my_data_text">Мои данные</string>
+    <string name="profile_region_text">Регион</string>
+    <string name="profile_preferred_drugstore_text">Предпочтительная аптека</string>
+    <string name="profile_history_orders_text">История покупок</string>
+    <string name="profile_subscribe_text">Подписки</string>
+    <string name="loyalty_card_text">Карта лояльности</string>
+
+    <string name="action_add_to_basket">В корзину</string>
+    <string name="action_show_basket">Оформить</string>
+
+    <!-- Заказы -->
+    <string name="active_orders_tab_text">Активные %1$d</string>
+    <string name="competed_orders_tab_text">Завершенные %1$d</string>
+
+    <string name="list">Список</string>
+    <string name="map">Карта</string>
+    <string name="more">Подробнее</string>
+    <string name="choose_drugstore">Выбрать аптеку</string>
+
+    <string name="work_time">Режим работы</string>
+    <string name="phone">Телефон</string>
+    <string name="order_positions">Позиции заказа</string>
+
+    <string name="send_sms">Мы отправим СМС-сообщение\n с кодом для входа на ваш номер</string>
+    <string name="enter_phone">Введите номер телефона</string>
+    <string name="autorization">Авторизуясь, я принимаю условия</string>
+    <string name="terms_of_use">ПОЛЬЗОВАТЕЛЬСКОГО СОГЛАШЕНИЯ</string>
+    <string name="get_code">Получить код</string>
+
+    <string name="send_code_on_phone">На номер %1$s\n отправлен код подтвеждения</string>
+    <string name="enter_code">Введите код</string>
+    <string name="no_sms_message">Сообщение не пришло в течение %1$d секунд?</string>
+    <string name="resend_btn_text">Выслать код повторно</string>
+    <string name="confirm_btn_text">Подтведтить номер</string>
+    <string name="pharmacies_text">Аптеки</string>
+    <string name="order_place_text">Адрес аптеки</string>
+    <string name="date_delivery_text">Дата доставки заказа</string>
+    <string name="order_sum_text">Сумма заказа со скидкой</string>
+    <string name="summary_btn_text">Подробности</string>
+
+    <string name="good_contraindications">Рецептурный препарат</string>
+    <string name="good_contraindications2">Строго по рецепту</string>
+    <string name="good_coldcond">Хранить в холоде</string>
+    <string name="sum">Сумма:</string>
+    <string name="sum_order">Сумма заказа</string>
+    <string name="sum_with_discount">Сумма заказа со скидкой</string>
+    <string name="apply">Применить</string>
+
+    <string name="balance">Ваш баланс</string>
+
+    <string name="change">Изменить</string>
+    <string name="your_order">Ваш заказ</string>
+    <string name="checkout">Оформить заказ</string>
+    <string name="good">Товар</string>
+    <string name="count">Количество</string>
+
+    <string name="order_status_text">Статус заказа</string>
+    <string name="order_content_text">Позиции заказа</string>
+    <string name="share_btn_text">Пригласить друга</string>
+
+    <string-array name="sort_products_type">
+        <item>По популярности</item>
+        <item>По названию</item>
+        <item>По цене</item>
+    </string-array>
+
+    <string name="goods_in_stock">Забрать товары из наличия в аптеке</string>
+    <string name="total_amount">Итоговая сумма</string>
+
+    <string name="characteristics">Характеристики</string>
+    <string name="good_note">Описание товара</string>
+    <string name="note">Внимание! Внешний вид товара и описание могут отличаться.</string>
+    <string name="with_this_buy">С этим покупают</string>
+    <string name="analogs">Аналоги</string>
+    <string name="all">ВСЕ</string>
+
+    <string name="active_substance">Действующее вещество</string>
+    <string name="releaseform">Форма выпуска</string>
+    <string name="way_of_use">Путь введения</string>
+    <string name="dosageform">Лекарственная форма</string>
+    <string name="recipe">Рецептурность</string>
+
+    <string name="in_favorite">В избранное</string>
+    <string name="on_map">На карте</string>
+    <string name="position_in_stock">В наличии</string>
+    <string name="not_client_cards">Карта лояльности отсутствует</string>
+    <string name="not_goods_in_basket">Корзина пуста</string>
+    <string name="goto_goods_list_text">К списку товаров</string>
+    <string name="cancel_order_text">Отменить заказ</string>
+    <string name="repeat_order_text">Повторить заказ</string>
+    <string name="set_date_period_text">Укажите период</string>
+
+
+</resources>

@@ -1,0 +1,15 @@
+@startuml
+:Activity: as Activity
+
+(Реагирование на уведомления\n от NotificationManager) as (use1)
+(Предоставлять механизм\n смены провайдера\n для компонента поиск) as use2
+(Предоставлять механизм смены\n заголовка ActionBar) as use3
+
+note bottom of use1 : переход на экраны согласно ЧТЗ 5.2.1.12
+note bottom of use2 : cтрока поиска распологается\n в разметке представления\n именно Activity
+note bottom of use3 : Для фрагментов нижней навигации
+
+Activity ---> use1
+Activity ---> use2
+Activity ---> use3
+@enduml

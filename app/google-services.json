@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "784806420986",
+    "firebase_url": "https://artfarm-android-app.firebaseio.com",
+    "project_id": "artfarm-android-app",
+    "storage_bucket": "artfarm-android-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784806420986:android:58a9cd2d720cc5a7",
+        "android_client_info": {
+          "package_name": "biz.gelicon.artfarm.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784806420986-ijeo4anq2vfqqfr2kf2u4uo7vvq2nfq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfFEP9M_dXk2bgdarprOdhy00-OgeefmE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
